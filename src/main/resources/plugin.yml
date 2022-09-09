@@ -1,0 +1,4 @@
+name: Realm.thing
+version: '${project.version}'
+main: tech.webknox.realm.thing.Realm.thing
+api-version: 1.19
